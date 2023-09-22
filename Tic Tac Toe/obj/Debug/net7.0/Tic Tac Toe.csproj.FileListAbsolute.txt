@@ -1,0 +1,33 @@
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\appsettings.Development.json
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\appsettings.json
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\Tic Tac Toe.exe
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\Tic Tac Toe.deps.json
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\Tic Tac Toe.runtimeconfig.json
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\Tic Tac Toe.dll
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\Tic Tac Toe.pdb
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MachineCoding\Tic Tac Toe\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\Tic Tac Toe.csproj.AssemblyReference.cache
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\Tic Tac Toe.AssemblyInfoInputs.cache
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\Tic Tac Toe.AssemblyInfo.cs
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\Tic Tac Toe.MvcApplicationPartsAssemblyInfo.cs
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\Tic Tac Toe.MvcApplicationPartsAssemblyInfo.cache
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\staticwebassets\msbuild.Tic Tac Toe.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\staticwebassets\msbuild.build.Tic Tac Toe.props
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tic Tac Toe.props
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tic Tac Toe.props
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\staticwebassets.pack.json
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\staticwebassets.build.json
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\staticwebassets.development.json
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\scopedcss\bundle\Tic Tac Toe.styles.css
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\Tic Tac Toe.csproj.CopyComplete
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\Tic Tac Toe.dll
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\refint\Tic Tac Toe.dll
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\Tic Tac Toe.pdb
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\Tic Tac Toe.genruntimeconfig.cache
+D:\MachineCoding\Tic Tac Toe\obj\Debug\net7.0\ref\Tic Tac Toe.dll
